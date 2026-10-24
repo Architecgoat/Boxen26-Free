@@ -1,1 +1,2 @@
 Boxen26-Free.zip filter=lfs diff=lfs merge=lfs -text
+voice_packs/Additional[[:space:]]Voice[[:space:]]Pack/*.zip filter=lfs diff=lfs merge=lfs -text
